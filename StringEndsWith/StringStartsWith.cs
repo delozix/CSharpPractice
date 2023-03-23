@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StringEndsWith
 {
-    internal class StringStartsWith
+    internal class StringEndsWith
     {
         public static bool Solution(string str, string ending)
         {

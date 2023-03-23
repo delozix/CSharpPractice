@@ -4,12 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(StringStartsWith.Solution("sumo", "omo"));
-            Console.WriteLine(StringStartsWith.Solution("samurai", "ai"));
-            Console.WriteLine(StringStartsWith.Solution("abc", "abcd"));
-            Console.WriteLine(StringStartsWith.Solution("abc", "abc"));
-            Console.WriteLine(StringStartsWith.Solution("!@#$%^&*() :-)", ":-)"));
-            Console.WriteLine(StringStartsWith.Solution("abc\n", "abc"));
+            Console.WriteLine(StringEndsWith.Solution("sumo", "omo"));
+            Console.WriteLine(StringEndsWith.Solution("samurai", "ai"));
+            Console.WriteLine(StringEndsWith.Solution("abc", "abcd"));
+            Console.WriteLine(StringEndsWith.Solution("abc", "abc"));
+            Console.WriteLine(StringEndsWith.Solution("!@#$%^&*() :-)", ":-)"));
+            Console.WriteLine(StringEndsWith.Solution("abc\n", "abc"));
 
         }
     }

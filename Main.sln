@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivideAndConquer", "CSharpPractice\DivideAndConquer.csproj", "{D4CDD97B-3625-4DBE-94A1-40647BFC2097}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEndsWith", "StringEndsWith\StringEndsWith.csproj", "{20593C74-A21B-485A-BD3C-1D449041587A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringEndsWith", "StringEndsWith\StringEndsWith.csproj", "{20593C74-A21B-485A-BD3C-1D449041587A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleOf3Or5", "MultipleOf3Or5\MultipleOf3Or5.csproj", "{980CC02D-AC61-483A-B66F-E774E9153EAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{20593C74-A21B-485A-BD3C-1D449041587A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20593C74-A21B-485A-BD3C-1D449041587A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20593C74-A21B-485A-BD3C-1D449041587A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980CC02D-AC61-483A-B66F-E774E9153EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980CC02D-AC61-483A-B66F-E774E9153EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980CC02D-AC61-483A-B66F-E774E9153EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980CC02D-AC61-483A-B66F-E774E9153EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
