@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivideAndConquer", "CSharpP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringEndsWith", "StringEndsWith\StringEndsWith.csproj", "{20593C74-A21B-485A-BD3C-1D449041587A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleOf3Or5", "MultipleOf3Or5\MultipleOf3Or5.csproj", "{980CC02D-AC61-483A-B66F-E774E9153EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleOf3Or5", "MultipleOf3Or5\MultipleOf3Or5.csproj", "{980CC02D-AC61-483A-B66F-E774E9153EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandNameGenerator", "BandNameGenerator\BandNameGenerator.csproj", "{F3710C98-E298-41A3-91A1-CAF9199F2C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BandNameGenerator", "BandNameGenerator\BandNameGenerator.csproj", "{F3710C98-E298-41A3-91A1-CAF9199F2C93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisemvowelTrolls", "DisemvowelTrolls\DisemvowelTrolls.csproj", "{5BE40077-BE62-4E22-B77B-A4B290BE5078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count the Digit", "Count the Digit\Count the Digit.csproj", "{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{F3710C98-E298-41A3-91A1-CAF9199F2C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3710C98-E298-41A3-91A1-CAF9199F2C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3710C98-E298-41A3-91A1-CAF9199F2C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE40077-BE62-4E22-B77B-A4B290BE5078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE40077-BE62-4E22-B77B-A4B290BE5078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE40077-BE62-4E22-B77B-A4B290BE5078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE40077-BE62-4E22-B77B-A4B290BE5078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
