@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BandNameGenerator", "BandNa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisemvowelTrolls", "DisemvowelTrolls\DisemvowelTrolls.csproj", "{5BE40077-BE62-4E22-B77B-A4B290BE5078}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count the Digit", "Count the Digit\Count the Digit.csproj", "{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count the Digit", "Count the Digit\Count the Digit.csproj", "{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixStringCase", "FixStringCase\FixStringCase.csproj", "{23138016-1281-439F-9251-4BE55D60455F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88D2005B-EDF2-4867-8EF3-F2E8DF58DA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23138016-1281-439F-9251-4BE55D60455F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23138016-1281-439F-9251-4BE55D60455F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23138016-1281-439F-9251-4BE55D60455F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23138016-1281-439F-9251-4BE55D60455F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
